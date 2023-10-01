@@ -1,0 +1,25 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.0.1",
+	"SemVersion": "0.0.1",
+	"FriendlyName": "ExmorCompression",
+	"Description": "",
+	"Category": "Modding",
+	"CreatedBy": "Skymoeba",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"SemVersion": "^3.5.0",
+			"Enabled": true
+		}
+	]
+}
