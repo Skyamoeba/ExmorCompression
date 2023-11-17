@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
-	"Version": 1,
-	"VersionName": "0.0.1",
-	"SemVersion": "0.0.1",
+	"Version": 0,
+	"VersionName": "0.0.2",
+	"SemVersion": "0.0.2",
 	"FriendlyName": "ExmorCompression",
 	"Description": "",
 	"Category": "Modding",
@@ -18,8 +18,11 @@
 	"Plugins": [
 		{
 			"Name": "SML",
-			"SemVersion": "^3.5.0",
-			"Enabled": true
+			"SemVersion": "^3.6.0",
+			"Enabled": true,
+			"BasePlugin": false
 		}
-	]
+	],
+	"RemoteVersionRange": "",
+	"AcceptsAnyRemoteVersion": false
 }
