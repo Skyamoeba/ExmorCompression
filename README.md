@@ -4,6 +4,4 @@ You are able to compress items in the workbench and also in the Assembler when u
 
 Only compressible items are the main ones for building machines, walls ect.
 
-Will add more if feedback 
-
-![Compressed Items](https://raw.githubusercontent.com/Skyamoeba/ExmorCompression/blob/a839749fcf85654e28c233170862230ae65ec998/SMLAssets/Screenshot20231210-10042700000.png)
+Will add more on feedback.
