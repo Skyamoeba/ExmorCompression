@@ -5,3 +5,35 @@ You are able to compress items in the workbench and also in the Assembler when u
 Only compressible items are the main ones for building machines, walls ect.
 
 Will add more on feedback.
+
+
+Release Notes:
+
+## V1.0.5
+
+
+## Player Side -----------------------------------------------------------
+---
+## Changed : 
+
+---
+## Added : 
+
+___
+## Fixed :
+
+Typo's Sulphur
+
+___
+## Dev Side ----------------------------------------------------------------
+
+## Changed :
+
+___
+## Added : 
+
+___
+### Fixed :
+
+___
+## Feed Back Changes ------------------------------------------------------
