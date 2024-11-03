@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.5",
-	"SemVersion": "1.0.5",
+	"VersionName": "1.0.6",
+	"SemVersion": "1.0.6",
 	"FriendlyName": "ExmorCompression",
 	"Description": "Compression System to get the most of of your transportation!",
 	"Category": "Modding",
@@ -19,11 +19,9 @@
 		{
 			"Name": "SML",
 			"SemVersion": "^3.8.0",
-			"Enabled": true,
-			"BasePlugin": false
+			"Enabled": true
 		}
 	],
-	"RemoteVersionRange": "",
 	"AcceptsAnyRemoteVersion": false,
 	"GameVersion": ">=365306"
 }

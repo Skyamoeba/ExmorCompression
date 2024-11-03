@@ -2,38 +2,42 @@ Allows you to compress items within another pocket dimension within your pocket 
 
 You are able to compress items in the workbench and also in the Assembler when unlocked.
 
-Only compressible items are the main ones for building machines, walls ect.
-
 Will add more on feedback.
 
 
 Release Notes:
 
-## V1.0.5
+V1.0.6
+
+_______________
+Compressed Ores
+###############
+
+Changed the Icon for Compressed Sam to the U1 icon
+
+________________
+Compressed Items
+################
+
+[Background] 
+Added Tier 9 Item Folders
+
+[User Facing]
+Added Tier 9 Compressed Item and Recipes: 
+
+Dark Matter Crystal
+Diamonds
+Ficsite Trigon
 
 
-## Player Side -----------------------------------------------------------
----
-## Changed : 
+_________________
+Compressed Ingots
+#################
 
----
-## Added : 
+Compressed Ingots added to the MOD
 
-___
-## Fixed :
+______________________
+Recipe Changes / Added
+######################
 
-Typo's Sulphur
-
-___
-## Dev Side ----------------------------------------------------------------
-
-## Changed :
-
-___
-## Added : 
-
-___
-### Fixed :
-
-___
-## Feed Back Changes ------------------------------------------------------
+Power Board is now created in the Converter so it can then be put into a Converter to make Alternate : Artificial Somersloop [Not Yet Added]
