@@ -7,13 +7,41 @@ Will add more on feedback.
 
 Release Notes:
 
+=====================================================================
+
+V1.0.9
+
+Satisfactory 1.1 Update
+
+
+=====================================================================
+
+V1.0.8
+
+Added Icons for the Compressed Ores and Black Compression
+More Icons for signs to follow
+
+Changed Recipe for the following:
+
+Compressed SAM Fluctuator
+Compressed SingularityCell
+Compressed Superpositional Osc
+Compressed Time Crystal
+
+=====================================================================
+
 V1.0.7
 
+Quick fix for progression forgot to add the recipe unlock for the Tier 1 token.
+It has now been added in Tier 0.
 
+Only found out when I went myself to unlock the first tier and I thought I tested everything.
 
+Sorry for the inconvenience
 
+if you found anything else I missed raise a issue on github below and I will try to fix same day if I can.
 
-
+https://github.com/Skyamoeba/ExmorCompression/issues
 
 =====================================================================
 
