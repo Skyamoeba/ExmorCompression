@@ -9,6 +9,7 @@ Release Notes:
 
 =====================================================================
 
+<<<<<<< HEAD
 V1.0.9
 
 Satisfactory 1.1 Update
@@ -16,6 +17,8 @@ Satisfactory 1.1 Update
 
 =====================================================================
 
+=======
+>>>>>>> Main/main
 V1.0.8
 
 Added Icons for the Compressed Ores and Black Compression

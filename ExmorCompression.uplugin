@@ -18,10 +18,18 @@
 	"Plugins": [
 		{
 			"Name": "SML",
+<<<<<<< HEAD
 			"SemVersion": "^3.11.0",
+=======
+			"SemVersion": "^3.10.0",
+>>>>>>> Main/main
 			"Enabled": true
 		}
 	],
 	"AcceptsAnyRemoteVersion": false,
+<<<<<<< HEAD
 	"GameVersion": ">=410840"
+=======
+	"GameVersion": ">=383729"
+>>>>>>> Main/main
 }
