@@ -9,7 +9,13 @@ Release Notes:
 
 =====================================================================
 
-<<<<<<< HEAD
+V1.0.10 #6 FabuNova Fix
+
+Changed Compressor and De-compressor Recipe having Radio Controller to modular frames
+
+=====================================================================
+
+
 V1.0.9
 
 Satisfactory 1.1 Update
