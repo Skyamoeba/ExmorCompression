@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.10",
-	"SemVersion": "1.0.10",
+	"VersionName": "1.0.11",
+	"SemVersion": "1.0.11",
 	"FriendlyName": "ExmorCompression",
 	"Description": "Compression System to get the most of of your transportation!",
 	"Category": "Modding",
