@@ -8,6 +8,21 @@ Will add more on feedback.
 Release Notes:
 
 
+
+
+
+
+
+
+
+=====================================================================
+
+V1.0.12
+
+- Changed Unlock conditions for Tiers 2 and 3
+
+
+
 =====================================================================
 
 V1.0.11
@@ -25,7 +40,31 @@ V1.0.11
 -Added Tier 2 Items to Sign List
 -Added Tier 3 Items to Sign List
 
+ -Changed Unlock for compression machines from Tier 1 and moved them to Tier 2 #8
 
+-Changed Recipe for Machines instead of using SAM Fluctuator they will now need Reanimated SAM
+
+-Changed Some Typos
+
+-Ordered some items in the menus
+
+-Updated Description for some items
+
+-Changed Recipe so items can be made in the workbench #7
+
+-Added Ingots to Sign List
+
+-Added Compressed Packaged Water
+
+-Added Compressed Ore to the sink list
+
+-Added Tier 1 Items to Sign List
+
+-Added Tier 2 Items to Sign List
+
+-Added Tier 3 Items to Sign List
+
+=====================================================================
 
 =====================================================================
 
