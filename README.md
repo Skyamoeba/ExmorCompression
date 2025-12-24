@@ -7,21 +7,24 @@ Will add more on feedback.
 
 Release Notes:
 
+V1.0.14
 
+TBC
 
+=====================================================================
 
+V1.0.13
 
+- Added Compressed Tiers 4,5,6,7,8 and 9 to signs
+- Added Compressed Packaged Water to Signs
 
-
-
+-- Sorry an update has been so long Merry Christmas, Happy Holidays where ever you are in the world
 
 =====================================================================
 
 V1.0.12
 
 - Changed Unlock conditions for Tiers 2 and 3
-
-
 
 =====================================================================
 
@@ -66,19 +69,15 @@ V1.0.11
 
 =====================================================================
 
-=====================================================================
-
 V1.0.10 #6 FabuNova Fix
 
 Changed Compressor and De-compressor Recipe having Radio Controller to modular frames
 
 =====================================================================
 
-
 V1.0.9
 
 Satisfactory 1.1 Update
-
 
 =====================================================================
 
