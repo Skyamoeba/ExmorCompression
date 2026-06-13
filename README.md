@@ -7,9 +7,27 @@ Will add more on feedback.
 
 Release Notes:
 
+V 1.0.16
+
+In Progress
+
+=====================================================================
+
+V 1.0.15
+
+Icons now showing in the signs UI #13
+
+Liquids Update
+Item Update
+
+=====================================================================
+
 V1.0.14
 
-TBC
+Version Bump
+Exmor Compression : 1.0.14
+Satisfactory : 1.2-491125
+SML: 3.12.0
 
 =====================================================================
 
